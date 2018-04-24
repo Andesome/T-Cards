@@ -7,6 +7,11 @@ html {
   font-size: 15px;
   font-family: "Oswald", sans-serif,"Microsoft YaHei"; }
 
+#switch{
+  font-size: 15px;
+  color: #fff;
+}
+
 @media screen and (max-width: 414px) {
   .cards-wrap {
     width: 100%; }
